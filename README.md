@@ -1,16 +1,22 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=GilvanPOliveira&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true"/>
 
-<!--
-**GilvanPOliveira/GilvanPOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello There, 
+### I'm Gilvan Oliveira 🙋‍♂️
 
-Here are some ideas to get you started:
+- [X] Full Stack Developer (in Progress...)
+- [ ] Front End Developer
+- [ ] Back End Developer
+- [ ] Follow the white rabbit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin: anmol](https://img.shields.io/badge/-gilvanpoliveira06-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilvanpoliveira06-p-singh/)](https://www.linkedin.com/in/gilvanpoliveira06/)
+![GitHub followers](https://img.shields.io/github/followers/GilvanPOliveira?label=Follow&style=social)
+
+<!-- Exibir Trofeus -->
+<!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=GilvanPOliveira&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+<!-- Exibir Linguagens mais utilizadas -->
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilvanPOliveira&layout=compact&langs_count=10&theme=dark"/> -->
+
+My contribution graph, from previous years, was eaten by the snake 🐍
+<img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'>
