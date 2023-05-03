@@ -1,3 +1,4 @@
+<!-- Resumo das atividades no GitHub -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=GilvanPOliveira&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true"/>
 
 ## Hello There, 
@@ -8,6 +9,7 @@
 - [ ] Back End Developer
 - [ ] Follow the white rabbit
 
+<!-- Social -->
 [![Linkedin: anmol](https://img.shields.io/badge/-gilvanpoliveira06-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilvanpoliveira06-p-singh/)](https://www.linkedin.com/in/gilvanpoliveira06/)
 ![GitHub followers](https://img.shields.io/github/followers/GilvanPOliveira?label=Follow&style=social)
 
@@ -18,5 +20,6 @@
 <!-- Exibir Linguagens mais utilizadas -->
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilvanPOliveira&layout=compact&langs_count=10&theme=dark"/> -->
 
+<!-- Gif Snake do gráfico de contribuição -->
 My contribution graph, from previous years, was eaten by the snake 🐍
 <img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'>
