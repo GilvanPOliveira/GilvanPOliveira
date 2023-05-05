@@ -10,12 +10,13 @@
 - [ ] Follow the white rabbit
 
 <!-- Social -->
-[![Instagram Badge](https://img.shields.io/badge/-<-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/gilvanpoliveira/ "Connect on Instagram")
-[![Linkedin Badge](https://img.shields.io/badge/-<-007bb6?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gilvanpoliveira/ "Connect on LinkedIn")
-[![Twitter Badge](https://img.shields.io/badge/-<-00aced?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/GilvanPOliveira "Follow on Twitter")
-[![Messenger Badge](https://img.shields.io/badge/-<-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/gilvanpoliveira06 "Connect on Facebook")
-[![Gmail Badge](https://img.shields.io/badge/-<-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gilvanpoliveira06@gmail.com "Connect via Email")
+[![Instagram Badge](https://img.shields.io/badge/-<-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/gilvanpoliveira/)
+[![Linkedin Badge](https://img.shields.io/badge/-<-007bb6?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gilvanpoliveira/)
+[![Twitter Badge](https://img.shields.io/badge/-<-00aced?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/GilvanPOliveira)
 [![GitHub Badge](https://img.shields.io/badge/-<-454545?style=flat&logo=GitHub&logoColor=white)](https://github.com/GilvanPOliveira)
+[![Messenger Badge](https://img.shields.io/badge/-<-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/gilvanpoliveira06)
+[![Gmail Badge](https://img.shields.io/badge/-<-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gilvanpoliveira06@gmail.com)
+
 
 
 <!-- Exibir Trofeus -->
