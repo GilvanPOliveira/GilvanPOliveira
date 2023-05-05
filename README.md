@@ -22,4 +22,5 @@
 
 <!-- Gif Snake do gráfico de contribuição -->
 My contribution graph, from previous years, was eaten by the snake 🐍
-<img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'>
+<!-- <img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'> -->
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
