@@ -9,9 +9,9 @@
 - [ ] Back End Developer
 - [ ] Follow the white rabbit
 
-<!-- Social -->
-[![Linkedin: anmol](https://img.shields.io/badge/-gilvanpoliveira06-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilvanpoliveira06-p-singh/)](https://www.linkedin.com/in/gilvanpoliveira06/)
-![GitHub followers](https://img.shields.io/github/followers/GilvanPOliveira?label=Follow&style=social)
+<!-- Social  followers-->
+[![Linkedin: gilvanpoliveira06](https://img.shields.io/badge/-gilvanpoliveira06-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilvanpoliveira06-p-singh/)](https://www.linkedin.com/in/gilvanpoliveira06/)
+![GitHub: GilvanPOliveira](https://img.shields.io/github/followers/GilvanPOliveira?label=Follow&style=social)
 
 <!-- Exibir Trofeus -->
 <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
