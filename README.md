@@ -10,8 +10,14 @@
 - [ ] Follow the white rabbit
 
 <!-- Social -->
+[!Linkedin:](https://www.linkedin.com/in/gilvanpoliveira/)
+[!Instagram:](https://www.instagram.com/gilvanpoliveira/)
+[!GitHub:](https://github.com/GilvanPOliveira)
+[!Facebook:](https://www.facebook.com/gilvanpoliveira06)
+<!--
 [![Linkedin: gilvanpoliveira06](https://img.shields.io/badge/-gilvanpoliveira06-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilvanpoliveira06-p-singh/)](https://www.linkedin.com/in/gilvanpoliveira06/)
 ![GitHub: followers](https://img.shields.io/github/followers/GilvanPOliveira?label=Follow&style=social)
+-->
 
 <!-- Exibir Trofeus -->
 <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
