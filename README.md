@@ -10,10 +10,13 @@
 - [ ] Follow the white rabbit
 
 <!-- Social -->
-[!Linkedin:](https://www.linkedin.com/in/gilvanpoliveira/)
-[!Instagram:](https://www.instagram.com/gilvanpoliveira/)
-[!GitHub:](https://github.com/GilvanPOliveira)
-[!Facebook:](https://www.facebook.com/gilvanpoliveira06)
+<p>
+  <a href="https://twitter.com/GilvanPOliveira"><img src="imgs/twitter.svg" alt="Twitter"></a>
+	<a href="https://github.com/GilvanPOliveira"><img src="imgs/github.svg" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/gilvanpoliveira/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+	<a href="https://www.instagram.com/gilvanpoliveira/"><img src="imgs/instagram.svg" alt="Instagram"></a>
+	<a href="https://www.facebook.com/gilvanpoliveira06"><img src="imgs/facebook.svg" alt="Facebook"></a>
+</p>
 <!--
 [![Linkedin: gilvanpoliveira06](https://img.shields.io/badge/-gilvanpoliveira06-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilvanpoliveira06-p-singh/)](https://www.linkedin.com/in/gilvanpoliveira06/)
 ![GitHub: followers](https://img.shields.io/github/followers/GilvanPOliveira?label=Follow&style=social)
