@@ -10,13 +10,11 @@
 - [ ] Follow the white rabbit
 
 <!-- Social -->
-<p>
-  <a href="https://twitter.com/GilvanPOliveira"><img src="imgs/twitter.svg" alt="Twitter"></a>
-	<a href="https://github.com/GilvanPOliveira"><img src="imgs/github.svg" alt="GitHub"></a>
-	<a href="https://www.linkedin.com/in/gilvanpoliveira/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-	<a href="https://www.instagram.com/gilvanpoliveira/"><img src="imgs/instagram.svg" alt="Instagram"></a>
-	<a href="https://www.facebook.com/gilvanpoliveira06"><img src="imgs/facebook.svg" alt="Facebook"></a>
-</p>
+[![Gmail Badge](https://img.shields.io/badge/-gilvanpoliveira06@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gilvanpoliveira06@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-gilvanpoliveira%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gilvanpoliveira/ "Connect on LinkedIn")
+[![Twitter Badge](https://img.shields.io/badge/-@GilvanPOliveira-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/GilvanPOliveira "Follow on Twitter")
+[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/gilvanpoliveira06 "Connect on Facebook")
+
 <!--
 [![Linkedin: gilvanpoliveira06](https://img.shields.io/badge/-gilvanpoliveira06-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilvanpoliveira06-p-singh/)](https://www.linkedin.com/in/gilvanpoliveira06/)
 ![GitHub: followers](https://img.shields.io/github/followers/GilvanPOliveira?label=Follow&style=social)
