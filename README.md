@@ -10,7 +10,7 @@
 - [ ] Follow the white rabbit
 
 <!-- Social -->
-[![Instagram Badge](https://img.shields.io/badge/-<-517fa4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/gilvanpoliveira/ "Connect on Instagram")
+[![Instagram Badge](https://img.shields.io/badge/-<-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/gilvanpoliveira/ "Connect on Instagram")
 [![Linkedin Badge](https://img.shields.io/badge/-<-007bb6?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gilvanpoliveira/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-<-00aced?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/GilvanPOliveira "Follow on Twitter")
 [![Messenger Badge](https://img.shields.io/badge/-<-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/gilvanpoliveira06 "Connect on Facebook")
