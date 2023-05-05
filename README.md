@@ -24,8 +24,9 @@
 My contribution graph, from previous years, was eaten by the snake 🐍
 <img src='https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg'> 
 
-
-<!--
+<!-- Gif Snake
+Light Mode
 <img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'> 
+Dark Mode
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 -->
