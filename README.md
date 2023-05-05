@@ -15,6 +15,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-<-00aced?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/GilvanPOliveira "Follow on Twitter")
 [![Messenger Badge](https://img.shields.io/badge/-<-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/gilvanpoliveira06 "Connect on Facebook")
 [![Gmail Badge](https://img.shields.io/badge/-<-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gilvanpoliveira06@gmail.com "Connect via Email")
+![GitHub Badge](https://img.shields.io/github/followers/GilvanPOliveira?label=Follow&style=social)
 
 <!--
 [![Linkedin Badge](https://img.shields.io/badge/-nomedoperfil-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nomedoperfil/ "Connect on LinkedIn")
