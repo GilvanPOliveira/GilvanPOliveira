@@ -15,7 +15,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-<-00aced?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/GilvanPOliveira "Follow on Twitter")
 [![Messenger Badge](https://img.shields.io/badge/-<-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/gilvanpoliveira06 "Connect on Facebook")
 [![Gmail Badge](https://img.shields.io/badge/-<-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gilvanpoliveira06@gmail.com "Connect via Email")
-[![GitHub Badge](https://img.shields.io/github/followers/GilvanPOliveira?label=Follow&style=social)](https://github.com/GilvanPOliveira "Follow on GitHub")
+[![GitHub Badge](https://img.shields.io/badge/-<-00aced?style=flat&logo=GitHub&logoColor=white)](https://github.com/GilvanPOliveira)
+
 
 <!-- Exibir Trofeus -->
 <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
