@@ -11,7 +11,7 @@
 
 <!-- Social -->
 [![Gmail Badge](https://img.shields.io/badge/-gilvanpoliveira06@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gilvanpoliveira06@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-gilvanpoliveira%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gilvanpoliveira/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-gilvanpoliveira-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gilvanpoliveira/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@GilvanPOliveira-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/GilvanPOliveira "Follow on Twitter")
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/gilvanpoliveira06 "Connect on Facebook")
 
