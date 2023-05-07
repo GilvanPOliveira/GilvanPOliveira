@@ -22,7 +22,7 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=GilvanPOliveira&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!-- Exibir Linguagens mais utilizadas -->
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilvanPOliveira&layout=compact&langs_count=10&theme=dark"/> -->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilvanPOliveira&layout=compact&langs_count=10&theme=dark"/>
 
 <!-- Gif Snake do gráfico de contribuição -->
 My contribution graph, from previous years, was eaten by the snake 🐍
