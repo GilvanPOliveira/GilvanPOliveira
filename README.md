@@ -18,7 +18,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-<-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gilvanpoliveira06@gmail.com)
 
 <!-- Exibir Linguagens mais utilizadas -->
-<img heidth="108" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilvanPOliveira&layout=compact&langs_count=10&theme=dark"/>
+<img heidth="108" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilvanPOliveira&layout=compact&langs_count=10&theme=dark"/> <br>
 
 <!-- Gif Snake do gráfico de contribuição -->
 My contribution graph, from previous years, <br>
