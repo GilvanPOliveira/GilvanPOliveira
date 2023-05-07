@@ -16,6 +16,7 @@
 [![Messenger Badge](https://img.shields.io/badge/-<-00aced?style=flat&logo=Messenger&logoColor=white)](https://m.me/gilvanpoliveira06)
 [![Instagram Badge](https://img.shields.io/badge/-<-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/gilvanpoliveira/)
 [![Gmail Badge](https://img.shields.io/badge/-<-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gilvanpoliveira06@gmail.com)
+<!--[![Youtube Badge](https://img.shields.io/badge/-<-FF0000?style=flat&logo=YouTube&logoColor=white)](https://youtube.com/@GilvanPOliveira)-->
 
 <!-- Exibir Linguagens mais utilizadas -->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilvanPOliveira&layout=compact&langs_count=10&theme=dark"/> 
