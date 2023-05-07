@@ -1,8 +1,8 @@
 <!-- Resumo das atividades no GitHub -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=GilvanPOliveira&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true"/>
 
-## Hello There, 
-### I'm Gilvan Oliveira 🙋‍♂️
+# Hello There, 
+## I'm Gilvan Oliveira 🙋‍♂️
 
 - [X] Full Stack Developer (in Progress...)
 - [ ] Front End Developer
@@ -17,16 +17,17 @@
 [![Instagram Badge](https://img.shields.io/badge/-<-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/gilvanpoliveira/)
 [![Gmail Badge](https://img.shields.io/badge/-<-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gilvanpoliveira06@gmail.com)
 
-<!-- Exibir Trofeus -->
-<!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=GilvanPOliveira&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy) -->
-
 <!-- Exibir Linguagens mais utilizadas -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilvanPOliveira&layout=compact&langs_count=10&theme=dark"/>
+<img heidth="108" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilvanPOliveira&layout=compact&langs_count=10&theme=dark"/>
 
 <!-- Gif Snake do gráfico de contribuição -->
+My contribution graph, from previous years, <br>
+was eaten by the snake 🐍
 <img src='https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg'> 
-My contribution graph, from previous years, was eaten by the snake 🐍
+
+<!-- Exibir Trofeus -->
+<!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+<!--[![trophy:](https://github-profile-trophy.vercel.app/?username=GilvanPOliveira&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 <!-- Gif Snake
 Light Mode
